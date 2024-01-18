@@ -1,14 +1,11 @@
 # Hello, I'm Marcos 👋 👨‍💻 
 ![1704744510823](https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/7b810db3-23d6-48ba-8393-3c0509dd6471)
 
-
+<h3> 👨🏻‍💻 &nbsp;Acerca de mí </h3>
 Ingeniero de Sistemas - FullStack en Javascript. Especializado en el desarrollo de interfaces de usuario (UI) y frontend, en tecnologia como React.js, Next.js y Node.js, Figma, y en base de datos en PostgreSQL, Mysql. 
 
 <h3>¡Bienvenido a mi repositorio!"</h3>
 
-
-
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
