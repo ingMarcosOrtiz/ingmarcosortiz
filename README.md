@@ -1,4 +1,6 @@
 # Hello 👋 👨‍💻
+![1704744510823](https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/7b810db3-23d6-48ba-8393-3c0509dd6471)
+
 
 Hi, I'm Marcos! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. 
 
