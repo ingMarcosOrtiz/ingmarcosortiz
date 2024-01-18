@@ -46,6 +46,7 @@ Ingeniero de Sistemas - FullStack en Javascript. Especializado en el desarrollo 
 
 <h3> 🤝🏻 &nbsp;Conectate conmigo </h3>
 
+<a href="https://ingmarcosortiz.com/">https://ingmarcosortiz.com/</a>
 <p align="center">  
 <a href="https://www.ingmarcosortiz.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.ingmarcosortiz.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/marcos-ortiz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Marcos%20Ortiz-blue?style=flat-square&logo=linkedin"></a>
