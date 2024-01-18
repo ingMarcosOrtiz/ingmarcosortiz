@@ -4,11 +4,9 @@
 
 Ingeniero de Sistemas - FullStack en Javascript. Especializado en el desarrollo de interfaces de usuario (UI) y frontend, en tecnologia como React.js, Next.js y Node.js, Figma, y en base de datos en PostgreSQL, Mysql. 
 
-¡Bienvenido a mi repositorio!"
+<h3>¡Bienvenido a mi repositorio!"</h3>
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> Hey there! I'm Aditya.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
