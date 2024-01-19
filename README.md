@@ -27,6 +27,7 @@ Estoy comprometido a seguir explorando las ventajas de la inteligencia artificia
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
   ![Railway](https://img.shields.io/badge/-Railway-000000?style=flat&logo=railway&logoColor=white)
+  ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3E45?style=flat&logo=namecheap&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
