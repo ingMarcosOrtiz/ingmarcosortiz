@@ -24,7 +24,7 @@ Estoy comprometido a seguir explorando las ventajas de la inteligencia artificia
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+  ![Prisma](https://img.shields.io/badge/-Prisma-000000?style=flat&logo=prisma&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED)
   ![Railway](https://img.shields.io/badge/-Railway-000000?style=flat&logo=railway&logoColor=white)
   ![Namecheap](https://img.shields.io/badge/-Namecheap-DE3E45?style=flat&logo=namecheap&logoColor=white)
