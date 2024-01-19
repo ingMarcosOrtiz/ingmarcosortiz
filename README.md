@@ -4,6 +4,8 @@
 <h3> 👨🏻‍💻 &nbsp;Acerca de mí </h3>
 Ingeniero de Sistemas - FullStack en Javascript. Especializado en el desarrollo de interfaces de usuario (UI) y frontend, en tecnologia como React.js, Next.js y Node.js, Figma, y en base de datos en PostgreSQL, Mysql. 
 
+Estoy comprometido a seguir explorando las ventajas de la inteligencia artificial en la programación para mejorar la eficiencia y contribuir al éxito de los proyectos que me sean asignados.
+
 <h3>¡Bienvenido a mi repositorio!"</h3>
 
 
