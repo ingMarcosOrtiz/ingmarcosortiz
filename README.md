@@ -9,15 +9,12 @@ Estoy comprometido a seguir explorando las ventajas de la inteligencia artificia
 <h3>¡Bienvenido a mi repositorio!"</h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+
 ![1704744510823](https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/c5351e8b-d6e4-4b09-b2dc-32843df073f7)
 
 
 
-
-
-
 <br/>
-
 
 <h3> 🤝🏻 &nbsp;Conectate conmigo </h3>
 
