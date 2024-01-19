@@ -8,8 +8,8 @@ Estoy comprometido a seguir explorando las ventajas de la inteligencia artificia
 
 <h3>¡Bienvenido a mi repositorio!"</h3>
 
-
 <img src="https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/211793c9-4dcf-4d43-bbfc-0eccab07e79c" width="50" height="50" alt="css-3">
+<img src="https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/67d6f782-02b1-4f1f-8a79-54fce81ddcc6" width="50" height="50" alt="css-3">
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
