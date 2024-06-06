@@ -2,7 +2,7 @@
 ![1704744510823](https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/7b810db3-23d6-48ba-8393-3c0509dd6471)
 
 <h3> 👨🏻‍💻 &nbsp;Acerca de mí </h3>
-Ingeniero de Sistemas - FullStack en Javascript. Especializado en el desarrollo de interfaces de usuario (UI) y frontend, en tecnologia como React.js, Next.js y Node.js, Figma, y en base de datos en PostgreSQL, Mysql. 
+Ingeniero de Sistemas con experiencia en el desarrollo de aplicaciones web y móviles. Me dedico a crear soluciones personalizadas que se ajustan a las necesidades específicas de cada cliente. Mi pasión por la programación y mi habilidad para trabajar con tecnologías modernas me permiten llevar tus ideas al siguiente nivel.
 
 Estoy comprometido a seguir explorando las ventajas de la inteligencia artificial en la programación para mejorar la eficiencia y contribuir al éxito de los proyectos que me sean asignados.
 
