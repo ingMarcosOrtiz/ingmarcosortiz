@@ -6,12 +6,12 @@ Ingeniero de Sistemas con experiencia en el desarrollo de aplicaciones web y mó
 
 Estoy comprometido a seguir explorando las ventajas de la inteligencia artificial en la programación para mejorar la eficiencia y contribuir al éxito de los proyectos que me sean asignados.
 
-<h3>¡Bienvenido a mi repositorio!"</h3>
+<h3>¡Bienvenido a mi repositorio!</h3>
 
 Systems engineer with experience in the development of web and mobile applications. I am dedicated to creating personalized solutions that fit the specific needs of each client. My passion for programming and my ability to work with modern technologies allow me to take your ideas to the next level.
 I am committed to continuing to explore the advantages of artificial intelligence in programming to improve efficiency and contribute to the success of the projects assigned to me.
 
-<h3>Welcome to my repository!""</h3>
+<h3>Welcome to my repository!</h3>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
