@@ -8,6 +8,11 @@ Estoy comprometido a seguir explorando las ventajas de la inteligencia artificia
 
 <h3>¡Bienvenido a mi repositorio!"</h3>
 
+Systems engineer with experience in the development of web and mobile applications. I am dedicated to creating personalized solutions that fit the specific needs of each client. My passion for programming and my ability to work with modern technologies allow me to take your ideas to the next level.
+I am committed to continuing to explore the advantages of artificial intelligence in programming to improve efficiency and contribute to the success of the projects assigned to me.
+
+Welcome to my repository!"
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 ![1704744510823](https://github.com/ingMarcosOrtiz/ingmarcosortiz/assets/19525887/c5351e8b-d6e4-4b09-b2dc-32843df073f7)
